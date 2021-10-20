@@ -1,0 +1,468 @@
+{
+  "Places": [
+    {
+      "id": "1a",
+      "p_name": "Himachal Pradesh",
+      "speciality": "Summer Special",
+      "p_img": "https://www.holidify.com/images/bgImages/MANALI.jpg",
+      "catagory": [
+        {
+          "id": "1",
+          "c_name": "Cottage",
+          "c_image": "https://1.bp.blogspot.com/-ZUO_0AmliDA/XXCkkk_vtuI/AAAAAAAAAB4/G0xDew_xjFMXgj-HXQGylLUx7KTlkp0hQCEwYBhgL/s1600/26%2BApril.jpg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "2",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://2.bp.blogspot.com/-r7zibUZcWyA/VinR-HjcxSI/AAAAAAAAI44/vjopmboHZck/s640/Wild%2BFlower%2BHall%252C%2BShimla%2B-%2Bexterior-spring.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "3",
+          "c_name": "Hotel",
+          "c_image": "https://www.thatgoangirl.com/wp-content/uploads/2018/09/best-places-to-stay-in-himachal.jpg",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "2a",
+      "p_name": "Darjeeling",
+      "speciality": "Summer Special",
+      "p_img": "https://dynamic.tourtravelworld.com/package-images/photo-big/dir_15/424987/191548.jpg",
+      "catagory": [
+        {
+          "id": "4",
+          "c_name": "Cottage",
+          "c_image": "https://r1imghtlak.mmtcdn.com/ec43dd70ee9711ea899c0242ac110002.jpg?&output-quality=75&downsize=583:388&crop=583:388;25,0&output-format=jpg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "5",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/50/30/503031_v7.jpeg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "6",
+          "c_name": "Hotel",
+          "c_image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/58/46/c2/getlstd-property-photo.jpg",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "3a",
+      "p_name": "Kashmir",
+      "speciality": "Summer Special",
+      "p_img": "https://upload.wikimedia.org/wikipedia/commons/7/70/Neeulm_Valley_AJK_%28Arang_Kel%29.jpg",
+      "catagory": [
+        {
+          "id": "7",
+          "c_name": "Cottage",
+          "c_image": "https://seoimgak.mmtcdn.com/blog/sites/default/files/images/best-honeymoon-hotels-hotel-heevan-retreat-gulmarg.jpg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "8",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://hausratversicherungkosten.info/wp-content/uploads/2020/08/20-Tropical-Bedroom-Furniture-with-Exotic-Allure-Home.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "9",
+          "c_name": "Hotel",
+          "c_image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2018/05/Hotel-Rah-Villas.jpg",
+          "price": "2100/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "4a",
+      "p_name": "Gangtok",
+      "speciality": "Summer Special",
+      "p_img": "http://thegreencastle.in/wp-content/uploads/2018/11/gangtok.jpg",
+      "catagory": [
+        {
+          "id": "10",
+          "c_name": "Cottage",
+          "c_image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110611114834116-24aab1a8757011ea87800242ac110002.jpg?&output-quality=75&downsize=583:388&output-format=jpg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "11",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://www.thetoptours.com/wp-content/uploads/kashyap-kunj.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "12",
+          "c_name": "Hotel",
+          "c_image": "https://udaanhotels.com/wp-content/uploads/2019/07/Udaan-Woodberry-Hotel-Spa-Gangtok-Luxury.jpg",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "5a",
+      "p_name": "Goa",
+      "speciality": "Winter Special",
+      "p_img": "https://www.holidest.com/images/indiatours/goa/romantic-Goa-4.JPG",
+      "catagory": [
+        {
+          "id": "13",
+          "c_name": "Cottage",
+          "c_image": "https://www.greavesindia.com/wp-content/uploads/2018/06/Best-Goa-Hotels_Leela-Goa_credit-The-Leela-Palaces-Hotels-and-Resorts.jpg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "14",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://www.telegraph.co.uk/content/dam/Travel/hotels/asia/india/goa/w-goa-india-p.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "15",
+          "c_name": "Hotel",
+          "c_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/53/15/5f/our-newly-upgraded-sea.jpg?w=900&h=-1&s=1",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "6a",
+      "p_name": "Rajasthan",
+      "speciality": "Winter Special",
+      "p_img": "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/09/Gadisar-Lake-in-Rajasthan..jpg",
+      "catagory": [
+        {
+          "id": "16",
+          "c_name": "Cottage",
+          "c_image": "https://www.trippyholidays.com/wp-content/uploads/2020/02/rajasthan-palace-hotel.jpg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "17",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://assets.cntraveller.in/photos/60ba23dd0f3a5367ec9fe87a/master/w_1600%2Cc_limit/RAJ-Rambagh-Palace-Jaipur-1.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "18",
+          "c_name": "Hotel",
+          "c_image": "https://i0.wp.com/www.global-gallivanting.com/wp-content/uploads/2018/10/jai-mahal-palace-jaipur-bedroom-1024x683.jpg?resize=1024%2C683&ssl=1",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "7a",
+      "p_name": "Puri",
+      "speciality": "Winter Special",
+      "p_img": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/02/jaganath-temple.jpg",
+      "catagory": [
+        {
+          "id": "19",
+          "c_name": "Cottage",
+          "c_image": "https://images.trvl-media.com/hotels/5000000/4790000/4780200/4780106/caac2def.jpg?impolicy=fcrop&w=670&h=385&p=1&q=medium",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "20",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://cdn1.goibibo.com/voy_ing/t_g/0840d3cc2ab211e8b1b50a9df65c8753.jfif",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "21",
+          "c_name": "Hotel",
+          "c_image": "https://media-cdn.tripadvisor.com/media/photo-s/08/a4/dd/64/hotel-east-west.jpg",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "8a",
+      "p_name": "Hydrabad",
+      "speciality": "Winter Special",
+      "p_img": "https://static.toiimg.com/photo/69144907.cms",
+      "catagory": [
+        {
+          "id": "22",
+          "c_name": "Cottage",
+          "c_image": "https://www.hyderabadtourism.travel/images/popular/resorts-in-hyderabad/brown-town-resort-hyderabad-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "23",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://www.hyderabadtourism.travel/images/popular/resorts-in-hyderabad/the-best-resorts-in-hyderabad-header.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "24",
+          "c_name": "Hotel",
+          "c_image": "https://cache.marriott.com/marriottassets/marriott/HYDMC/hydmc-guestroom-9786-hor-clsc.jpg?interpolation=progressive-bilinear&downsize=378px:*",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "9a",
+      "p_name": "Andaman",
+      "speciality": "Winter Special",
+      "p_img": "https://static.toiimg.com/photo/69442439.cms",
+      "catagory": [
+        {
+          "id": "25",
+          "c_name": "Cottage",
+          "c_image": "https://images.mrandmrssmith.com/images/1482x988/3945523-amanpuri-phuket-thailand.jpg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "26",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/04/Sri-Panwa-Phuket-Luxury-Pool-Villa-Hotel1.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "27",
+          "c_name": "Hotel",
+          "c_image": "https://ocean.go2andaman.com/wp-content/uploads/2021/01/Jalakara-go2andaman-768x421-1.jpg?compress=true&quality=90&w=480&dpr=2.6",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "10a",
+      "p_name": "Ladakh",
+      "speciality": "Summer Special",
+      "p_img": "https://i.pinimg.com/originals/89/15/f0/8915f033e6629c89e559b8a0a3f5bc19.jpg",
+      "catagory": [
+        {
+          "id": "28",
+          "c_name": "Cottage",
+          "c_image": "https://d2np4vr8r37sds.cloudfront.net/article/13044-glvuiduhic-1617960518.jpeg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "29",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/26/63/ae/bird-s-eye-view-of-the.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "30",
+          "c_name": "Hotel",
+          "c_image": "https://r1imghtlak.mmtcdn.com/fdc7edf643a211eb8a210242ac110002.png?&downsize=910:612&crop=910:612;27,0&output-format=jpg",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "11a",
+      "p_name": "Kerala",
+      "speciality": "Winter Special",
+      "p_img": "https://images.unsplash.com/photo-1605531321045-59731b348442?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXR5JTIwb2YlMjBrZXJhbGF8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "catagory": [
+        {
+          "id": "31",
+          "c_name": "Cottage",
+          "c_image": "https://1.bp.blogspot.com/-ji6GHGiyRkg/UjGyUfouqVI/AAAAAAAADus/CN9D1mrA6aE/s640/leelakovalam.jpg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "32",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://www.flamingotravels.co.in/blog/wp-content/uploads/2020/06/Kerala-package.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "33",
+          "c_name": "Hotel",
+          "c_image": "https://www.telegraph.co.uk/content/dam/Travel/hotels/asia/india/kerala/old-harbour-cochin-bedroom.jpg",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "12a",
+      "p_name": "Singapore",
+      "speciality": "International",
+      "p_img": "https://wi.wallpapertip.com/wsimgs/173-1739548_singapore-beautiful.jpg",
+      "catagory": [
+        {
+          "id": "34",
+          "c_name": "Cottage",
+          "c_image": "https://media.homeanddecor.com.sg/public/2016/10/48111-comaroff-7.jpg",
+          "price": "5200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "35",
+          "c_name": "Deluxe Guest House",
+          "c_image": "http://www.travellingadda.com/wp-content/uploads/2021/01/Le-Meridien-Goa-Calangute-1024x682.jpg",
+          "price": "4400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "36",
+          "c_name": "Hotel",
+          "c_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/4f/68/6d/getlstd-property-photo.jpg?w=900&h=-1&s=1",
+          "price": "3200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "13a",
+      "p_name": "Bhutan",
+      "speciality": "International",
+      "p_img": "https://www.travelanddestinations.com/wp-content/uploads/2020/09/Tashichho-Dzong-Thimphu-at-night.jpg",
+      "catagory": [
+        {
+          "id": "37",
+          "c_name": "Cottage",
+          "c_image": "https://cf.bstatic.com/xdata/images/hotel/max500/230571221.jpg?k=3fa9650cdbc6152e5bb84678c9c7a75d6673987c45ee65a2e0e73bf3bc2ce332&o=",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "38",
+          "c_name": "Deluxe Guest House",
+          "c_image": "http://www.travellingadda.com/wp-content/uploads/2021/01/Le-Meridien-Goa-Calangute-1024x682.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "39",
+          "c_name": "Hotel",
+          "c_image": "https://www.travelinglifestyle.net/wp-content/uploads/2018/10/The-Pema-by-Realm-Luxury-Hotel-room.jpg",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "14a",
+      "p_name": "Maldives",
+      "speciality": "International",
+      "p_img": "https://www.diarystore.com/sites/default/files/featureimage-tour/maldives.jpeg",
+      "catagory": [
+        {
+          "id": "40",
+          "c_name": "Cottage",
+          "c_image": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/12/Best-Luxury-Resort-Maldives.jpg",
+          "price": "5600/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "41",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://www.telegraph.co.uk/content/dam/Travel/hotels/asia/maldives/the-nautilus-maldives-beach-residence-hotel-beach-xlarge.jpg",
+          "price": "3600/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "42",
+          "c_name": "Hotel",
+          "c_image": "https://media.radissonhotels.net/image/radisson-blu-resort-maldives/suite/16256-122445-f68324005_3xl.jpg",
+          "price": "2400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "15a",
+      "p_name": "Sri Lanka",
+      "speciality": "International",
+      "p_img": "http://www.flywings.com.au/upload/package/1494578242_Beautiful-Sri-Lanka-package.jpg",
+      "catagory": [
+        {
+          "id": "43",
+          "c_name": "Cottage",
+          "c_image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/6f/52/ba/main-entrance.jpg",
+          "price": "5400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "44",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://cf.bstatic.com/xdata/images/xphoto/max1440/48363558.jpg?k=7775af713d58df4406dac13f02ca86d781270c1141aba98c32d2171e8d76d529&o=",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "45",
+          "c_name": "Hotel",
+          "c_image": "https://images.mrandmrssmith.com/images/698x522/3231438-kalundewa-retreat-cultural-triangle-sri-lanka.jpg",
+          "price": "2500/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    },
+    {
+      "id": "16a",
+      "p_name": "Paris",
+      "speciality": "International",
+      "p_img": "https://www.presetpro.com/wp-content/uploads/2019/01/HDR-Photography-Beautiful-Paris-Presetpro.com_-1024x683.jpg",
+      "catagory": [
+        {
+          "id": "46",
+          "c_name": "Cottage",
+          "c_image": "https://img.vistarooms.com/gallery/paris-villa-fc7706.jpg",
+          "price": "5400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "47",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://www.expedia.ca/travelblog/wp-content/uploads/2015/04/shangrilaparis.png",
+          "price": "4200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "48",
+          "c_name": "Hotel",
+          "c_image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/183807171.jpg?k=84ec0f28eb8db5c71d31c9cc92bd9b6c4b9dcdebf61c12f582b4d40544ce639e&o=&hp=1",
+          "price": "3200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        }
+      ]
+    }
+  ]
+}

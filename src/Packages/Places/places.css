@@ -1,0 +1,65 @@
+#img1{
+    height: 165px;
+    border-radius: 2px;
+}
+a{
+    text-decoration: none!important;
+    color: rgb(10, 5, 53)!important;
+}
+#linkP:hover{
+    text-decoration: none!important;
+    color: rgb(36, 141, 145)!important;
+}
+#spcl{
+    color: indianred;
+    font-size: 13px;
+}
+#pl{
+    padding-top: 30px;
+    padding-bottom: 35px;
+}
+#places{
+    background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701336972.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.search {
+  width: 40% !important;
+  margin-left: 30%;
+  margin-top: 5px;
+  margin-bottom: 40px!important;
+}
+@media (min-width: 320px) and (max-width: 480px) { 
+    .search {
+      width: 60% !important;
+      margin-left: 21%;
+      margin-top: 5px;
+      margin-bottom: 30px!important;
+    }
+    .search::placeholder{
+      font-size: 12px;
+    }
+    #linkP{
+      font-size: 14px;
+    }
+    #img1{
+      height: 115px;
+      
+  }
+  #totalcard{
+    height: 186px;
+  }
+  #spcl{
+    margin-bottom: 2px;
+  }
+  #ptitle{
+    margin-bottom: 1px;
+  }
+  #pcardbody{
+    padding: 8px;
+  }
+    
+  }
+  
+  

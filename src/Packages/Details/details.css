@@ -1,0 +1,112 @@
+#details{
+    padding-top: 15px;
+    padding-bottom: 70px;
+    width: 110%;
+  
+}
+#cd{
+    margin-left: 190px;
+}
+#det{
+    background-image: url(https://www.marvin.com/-/media/project/tenant/marvin/products/collection/signature/ultimate/windows/ultimate-corner/signature-ultimate-corner-2-sunnybrook.jpg?h=1600&w=2400&ts=8ce535c2-ccf1-44bf-8006-16145f33db0c&hash=07230FD688FA6981DA20B26FF6B45A49);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#det h3{
+    padding-top: 16px;
+}
+
+.imgD{
+    height: 280px;
+    width: 360px;
+    padding: 10px;
+}
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+.card-body h4{
+    color: rgb(6, 6, 150)!important;
+}
+.card-body h5{
+    color: rgb(36, 121, 3)!important;
+}
+#btnD{
+    background-color: rgb(36, 7, 163);
+    color: whitesmoke!important;
+    font-size: 10px;
+    border-color: transparent;
+    border-radius: 4px;
+    margin-top: 20px!important;
+    margin: 2px;
+    
+}
+#booked{
+    background-color: rgb(36, 121, 3);
+    color: whitesmoke;
+    border-color: transparent;
+    border-radius: 2px;
+}
+#btnD:hover{
+    background-color: rgb(11, 165, 50);
+    color: whitesmoke!important;
+    font-size: 10px;
+    border-color: transparent;
+    border-radius: 4px;
+    
+}
+#ad:hover{
+    color: rgb(30, 185, 98)!important;
+}
+.card-text{
+    margin-bottom: 3px;
+}
+@media (min-width: 320px) and (max-width: 480px)  {
+    #cd{
+        margin-left: 30px;
+        margin-right: 30px;
+       
+        
+       
+    }
+    .imgD{
+        height: 200px;
+        width: 290px;
+        padding: 8px;
+    }
+    #dC{
+        width: 300px;
+    }
+    .card-horizontal{
+        display: block;
+    }
+    #details{
+        padding-top: 5px;
+        padding-bottom: 50px;
+        width: 100%;
+    }
+    #det h3{
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+    #dCbody h4{
+        font-size: 16px;
+    }
+    #dCbody h5{
+        font-size: 14px;
+    }
+    #dCbody{
+        font-size: 12px;
+    }
+    #btnD{
+        background-color: rgb(36, 7, 163);
+        color: whitesmoke!important;
+        font-size: 10px;
+        border-color: transparent;
+        border-radius: 4px;
+        margin-top: 20px;
+        margin: 2px;
+        
+    }
+}

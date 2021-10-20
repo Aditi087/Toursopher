@@ -1,0 +1,60 @@
+#dropdown-button{
+    padding: 7px;
+    margin: 30px;
+    background-color: whitesmoke;
+    color: rgb(124, 124, 124);
+    border-color: transparent;
+    font-size: 14px;
+    width: 30%;
+    border-radius: 20px;
+    
+}
+
+
+#options{
+    font-size: 13px;
+    padding: 5px;
+    display: block;
+    color: grey!important;
+    width: 200px!important;
+    height: 4vh;
+   
+    
+    
+    
+}
+#options:hover{
+    color: rgb(3, 3, 97)!important;
+}
+
+#dropdownmenu{
+    overflow-y: scroll;
+    
+    max-height: 120px;
+}
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    #dropdown-button{
+        padding: 4px;
+        margin: 20px;
+        
+        font-size: 9px;
+        width: 45%;
+        border-radius: 20px;
+        
+    }
+    #options{
+        font-size: 9px;
+        padding: 2px;
+        width: 100px!important;
+        height: 2vh;   
+    }
+    #dropdownmenu{
+        overflow-y: scroll;
+        
+        max-height: 80px;
+    }
+    
+}

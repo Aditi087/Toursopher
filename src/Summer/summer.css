@@ -1,0 +1,54 @@
+#caro{
+    margin: 5px;
+    margin-top: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    
+}
+#imgS{
+    height: 170px;
+    padding: 4px;
+    
+}
+h5{
+    color: whitesmoke;
+}
+#sSpcl{
+    color: rgb(204, 85, 17);
+
+}
+#name p{
+    color: whitesmoke;
+    font-size: 14px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    #caro{
+        margin: 2px;
+        margin-top: 20px;
+        padding: 4px!important;
+        margin-bottom: 20px!important;
+        
+        
+    }
+    #imgS{
+        height: 80px;
+        padding: 1px;
+        
+    }
+    #sSpcl{
+        font-size: 8px;
+    
+    }
+    #name h5{
+        font-size: 10px;
+        color: whitesmoke;
+    }
+    #name p{
+        
+        display: none;
+        
+    }
+    
+}

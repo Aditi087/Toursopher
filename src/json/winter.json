@@ -1,0 +1,179 @@
+{
+    "Places":[{
+        "id": "5a",
+        "p_name": "Goa",
+        "speciality": "Winter Special",
+        "p_img": "https://www.holidest.com/images/indiatours/goa/romantic-Goa-4.JPG",
+        "catagory": [
+          {
+            "id": "13",
+            "c_name": "Cottage",
+            "c_image": "https://www.greavesindia.com/wp-content/uploads/2018/06/Best-Goa-Hotels_Leela-Goa_credit-The-Leela-Palaces-Hotels-and-Resorts.jpg",
+            "price": "3400/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+          },
+          {
+            "id": "14",
+            "c_name": "Deluxe Guest House",
+            "c_image": "https://www.telegraph.co.uk/content/dam/Travel/hotels/asia/india/goa/w-goa-india-p.jpg",
+            "price": "2200/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+          },
+          {
+            "id": "15",
+            "c_name": "Hotel",
+            "c_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/53/15/5f/our-newly-upgraded-sea.jpg?w=900&h=-1&s=1",
+            "price": "1200/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+            }
+        ]
+    },
+    {
+        "id": "6a",
+        "p_name": "Rajasthan",
+        "speciality": "Winter Special",
+        "p_img": "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/09/Gadisar-Lake-in-Rajasthan..jpg",
+        "catagory": [
+          {
+            "id": "16",
+            "c_name": "Cottage",
+            "c_image": "https://www.trippyholidays.com/wp-content/uploads/2020/02/rajasthan-palace-hotel.jpg",
+            "price": "3400/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+          },
+          {
+            "id": "17",
+            "c_name": "Deluxe Guest House",
+            "c_image": "https://assets.cntraveller.in/photos/60ba23dd0f3a5367ec9fe87a/master/w_1600%2Cc_limit/RAJ-Rambagh-Palace-Jaipur-1.jpg",
+            "price": "2200/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+          },
+          {
+            "id": "18",
+            "c_name": "Hotel",
+            "c_image": "https://i0.wp.com/www.global-gallivanting.com/wp-content/uploads/2018/10/jai-mahal-palace-jaipur-bedroom-1024x683.jpg?resize=1024%2C683&ssl=1",
+            "price": "1200/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+            }
+        ]
+    },
+    {
+        "id": "7a",
+        "p_name": "Puri",
+        "speciality": "Winter Special",
+        "p_img": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/02/jaganath-temple.jpg",
+        "catagory": [
+          {
+            "id": "19",
+            "c_name": "Cottage",
+            "c_image": "https://images.trvl-media.com/hotels/5000000/4790000/4780200/4780106/caac2def.jpg?impolicy=fcrop&w=670&h=385&p=1&q=medium",
+            "price": "3400/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+          },
+          {
+            "id": "20",
+            "c_name": "Deluxe Guest House",
+            "c_image": "https://cdn1.goibibo.com/voy_ing/t_g/0840d3cc2ab211e8b1b50a9df65c8753.jfif",
+            "price": "2200/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+          },
+          {
+            "id": "21",
+            "c_name": "Hotel",
+            "c_image": "https://media-cdn.tripadvisor.com/media/photo-s/08/a4/dd/64/hotel-east-west.jpg",
+            "price": "1200/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+            }
+        ]
+    },
+    {
+        "id": "8a",
+      "p_name": "Hydrabad",
+      "speciality": "Winter Special",
+      "p_img": "https://static.toiimg.com/photo/69144907.cms",
+      "catagory": [
+        {
+          "id": "22",
+          "c_name": "Cottage",
+          "c_image": "https://www.hyderabadtourism.travel/images/popular/resorts-in-hyderabad/brown-town-resort-hyderabad-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "23",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://www.hyderabadtourism.travel/images/popular/resorts-in-hyderabad/the-best-resorts-in-hyderabad-header.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "24",
+          "c_name": "Hotel",
+          "c_image": "https://cache.marriott.com/marriottassets/marriott/HYDMC/hydmc-guestroom-9786-hor-clsc.jpg?interpolation=progressive-bilinear&downsize=378px:*",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+                }
+            ]
+        },
+    {
+        "id": "9a",
+        "p_name": "Andaman",
+        "speciality": "Winter Special",
+        "p_img": "https://static.toiimg.com/photo/69442439.cms",
+        "catagory": [
+          {
+            "id": "25",
+            "c_name": "Cottage",
+            "c_image": "https://images.mrandmrssmith.com/images/1482x988/3945523-amanpuri-phuket-thailand.jpg",
+            "price": "3400/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+          },
+          {
+            "id": "26",
+            "c_name": "Deluxe Guest House",
+            "c_image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/04/Sri-Panwa-Phuket-Luxury-Pool-Villa-Hotel1.jpg",
+            "price": "2200/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+          },
+          {
+            "id": "27",
+            "c_name": "Hotel",
+            "c_image": "https://ocean.go2andaman.com/wp-content/uploads/2021/01/Jalakara-go2andaman-768x421-1.jpg?compress=true&quality=90&w=480&dpr=2.6",
+            "price": "1200/Day",
+            "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+            }
+        ]
+    },
+   
+    {
+        "id": "11a",
+      "p_name": "Kerala",
+      "speciality": "Winter Special",
+      "p_img": "https://images.unsplash.com/photo-1605531321045-59731b348442?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXR5JTIwb2YlMjBrZXJhbGF8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "catagory": [
+        {
+          "id": "31",
+          "c_name": "Cottage",
+          "c_image": "https://1.bp.blogspot.com/-ji6GHGiyRkg/UjGyUfouqVI/AAAAAAAADus/CN9D1mrA6aE/s640/leelakovalam.jpg",
+          "price": "3400/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "32",
+          "c_name": "Deluxe Guest House",
+          "c_image": "https://www.flamingotravels.co.in/blog/wp-content/uploads/2020/06/Kerala-package.jpg",
+          "price": "2200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+        },
+        {
+          "id": "33",
+          "c_name": "Hotel",
+          "c_image": "https://www.telegraph.co.uk/content/dam/Travel/hotels/asia/india/kerala/old-harbour-cochin-bedroom.jpg",
+          "price": "1200/Day",
+          "c_des": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouF and visual mockups."
+            }
+        ]
+    }]
+}
+
+

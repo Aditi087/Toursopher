@@ -1,0 +1,56 @@
+
+#aboutPage h4{
+    padding: 30px;
+}
+#aboutPage{
+    background-color: rgb(13, 114, 145);
+    color: whitesmoke;
+}
+#aboutUs{
+    background-color: whitesmoke;
+    color: rgb(43, 40, 40);
+    padding: 30px;
+    padding-left: 110px;
+    padding-right: 110px;
+}
+#p1{
+    color: rgb(165, 205, 243);
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+#p2{
+    font-size: 12px;
+    padding-bottom: 30px;
+}
+#p3{
+    text-align: left;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    #aboutUs{
+        
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    } 
+    #p3{
+        font-size: 8px;
+    }
+    #aboutPage h4{
+        padding-top: 15px;
+        padding-bottom: 10px;
+        font-size: 15px;
+        margin-bottom: 0px;
+    }
+    #p1{
+        font-weight: bold;
+        margin-bottom: 3px;
+        font-size: 12px;
+    }
+    #p2{
+        font-size: 9px;
+        padding-bottom: 16px;
+    }
+    
+}

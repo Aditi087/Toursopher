@@ -1,0 +1,67 @@
+#nav{
+    background-color: rgba(6, 52, 105, 0.699)!important;
+    
+    
+}
+#navLink{
+    color: whitesmoke!important;
+}
+#dropdownbtn{
+    padding: 0px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 7px;
+    background-color: transparent;
+    border: none;
+
+}
+
+.drop{
+    color: rgb(2, 2, 104)!important; 
+    
+
+    
+}
+
+
+#logo{
+    height: 38px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  #logo{
+      height: 20px !important;
+      
+  }
+  
+
+    #nav a{
+        font-size: 10px;
+    }
+    .drop{
+        color: rgb(2, 2, 104)!important; 
+        position: relative;
+        font-size: 8px!important;
+        
+        
+    }
+    
+    #d{
+        width: 2px;
+        margin-left: 0px;
+        margin-right: 0px!important;
+    }
+   
+    #dropdownbtn{
+        padding-top: 0px;
+        font-size: 11px;
+        
+        
+    }
+    #navLink{
+        padding-right: 2px;
+    }
+
+    
+  }
+

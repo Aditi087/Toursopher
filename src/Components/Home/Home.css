@@ -1,0 +1,54 @@
+.search{
+    display: flex!important;
+}
+#top{
+    background-image:url(http://s4.thingpic.com/images/4e/6TwrXzPgXcvzvopc3S6V22fG.jpeg);
+    background-size:cover;
+    background-position:top;
+}
+#covid{
+    background-color: rgb(3, 121, 151);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#home{
+    background-color: rgb(236, 233, 233);
+    padding-bottom: 50px;
+}
+h6{
+    color: whitesmoke;
+    text-align: left;
+    padding-left: 30px;
+}
+#covidbtn{
+    font-size: 12px;
+    background-color: rgb(238, 231, 227);
+    margin-left: 10px;
+    border-color: transparent;
+    border-radius: 4px;
+}
+#covidbtn:hover{
+    font-size: 12px;
+    background-color: rgb(238, 78, 4);
+    color: whitesmoke;
+    margin-left: 10px;
+    border-color: transparent;
+    border-radius: 4px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    #covid h6{
+        font-size: 9px;
+    }
+    #covidbtn{
+        font-size: 7px;
+    }
+   .swi{
+       padding: 2px!important;
+       height: fit-content;
+   }
+
+    
+    
+}

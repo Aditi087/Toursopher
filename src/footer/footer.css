@@ -1,0 +1,166 @@
+.headline{
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+#ftr{
+    padding: 20px;
+}
+#ftr1 a{
+    color: whitesmoke!important;
+    display: flex;
+    padding-left: 65px;
+    font-size: 10px;
+}
+
+#ftr2 a{
+    color: whitesmoke!important;
+    display: flex;
+    padding-left: 85px;
+    font-size: 10px;
+}
+#ftr3 a{
+    padding: 8px;
+    color: whitesmoke!important;;
+}
+#ftr a:hover{
+    color: rgba(0, 174, 255, 0.911)!important;
+}
+#ftr4 input{
+    width: 150px;
+    height: 25px;
+    border-radius: 4px;
+    border-color: transparent;
+}
+#ftr4 ::placeholder{
+    font-size: 13px;
+}
+
+#fbtn{
+    margin:10px;
+    height: 25px;
+    font-size: 12px;
+    background-color: rgb(4, 4, 122);
+    border-color: transparent;
+    border-radius: 4px;
+    color: whitesmoke;
+}
+#fbtn:hover{
+    background-color: rgb(7, 115, 165);
+}
+
+#footer{
+    background-color: rgb(37, 59, 78);
+    color: whitesmoke;
+    
+}
+#flogo{
+    height: 40px;
+    
+}
+
+#fhead{
+    display: flex;
+    margin-left: 10px;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid whitesmoke;
+}
+#fhead2 p{
+    padding: 0px;
+    margin: 0px;
+    text-align: right;
+    font-size: 12px;
+}
+#fhead2{
+    margin-left: 550px;
+}
+#ff{
+    background-color: rgb(12, 42, 70);
+    padding: 15px;
+}
+#ff a{
+    color: whitesmoke!important;
+    text-decoration: whitesmoke underline!important;
+}
+#ferror{
+    font-size: 8px!important;
+    color: red;
+    display: block;
+    text-align: left;
+    margin-left: 32px;
+    margin-bottom: 2px;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    #flogo{
+        height: 25px;
+        
+    }
+    #fhead{
+        
+        margin-left: 10px;
+        padding: 15px;
+        margin-bottom: 5px;
+        border-bottom: 1px solid whitesmoke;
+    }
+    #fhead2{
+        margin-left: 90px;
+        
+
+    }
+    #fhead2 p{
+        font-size: 8px;
+    }
+    #ftr{
+        padding: 15px;
+    }
+    .headline{
+        font-size: 8px;
+        font-weight: bold;
+        
+    }
+    #ftr1 a{
+        
+        padding-left: 5px;
+        font-size: 6px;
+    }
+    #ftr2 a{
+        
+        padding-left: 5px;
+        font-size: 7px;
+    }
+    #ftr3 a{
+        padding: 4px;
+        
+    }
+    #ftr4 input{
+        width: 70px;
+        height: 15px;
+        
+    }
+    #ftr4 ::placeholder{
+        font-size: 7px;
+        padding-top: 0px!important;
+    }
+    #fbtn{
+        margin:6px;
+        height: 15px;
+        font-size: 6px;
+    }
+    #ff{
+        font-size: 8px;
+        padding: 7px;
+    }
+    #ferror{
+        font-size: 6px!important;
+        color: red;
+        display: block;
+        text-align: left;
+        margin-left: 4px;
+        margin-bottom: 2px;
+    }
+    
+
+}
+

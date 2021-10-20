@@ -1,0 +1,121 @@
+#blogH{
+    background-image: url(https://www.teahub.io/photos/full/167-1679583_style-write-wallpaper-hd.jpg);
+    height: 220px;
+    background-size: cover;
+    background-position: center;
+}
+#blh{
+    text-align: left;
+    padding: 20px;
+    padding-top: 40px;
+}
+#blHB{
+    margin-right: 810px!important;
+    border-color: transparent;
+    border-radius: 4px;
+    font-size: 13px;
+    color: rgb(36, 35, 35);
+    font-weight:500;
+}
+#blHB:hover{
+    color: rgb(241, 241, 241)!important;
+    background-color: gray;
+}
+#read{
+    text-align: left;
+    color: rgb(75, 74, 74);
+}
+#blogFlex{
+    display: flex;
+    text-align: left;
+    color: rgb(13, 100, 2);
+}
+#blogImg{
+    height: 120px;
+    margin-right: 45px;
+    border-radius: 2px;
+}
+#blg p{
+    text-align: left;
+    font-size: 13px;
+
+}
+#blg h5{
+    text-align: left;
+    color: rgb(13, 100, 2);
+    padding-bottom: 3px;
+    
+}
+#blg h6{
+    padding-left: 0px!important;
+    color: grey;
+}
+#blg{
+    margin: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    padding: 60px;
+    border-radius: 5px;
+}
+.blogImg2{
+    height: 250px;
+    margin-bottom: 18px;
+    margin-top: 10px;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    #blogH{
+        
+        height: 130px;
+        background-size: cover;
+        background-position: center;
+    } 
+    #blh{
+        text-align: left;
+        padding: 15px;
+        padding-top: 20px;
+        font-size: 10px;
+    } 
+    
+    #blHB{
+        margin-right: 260px!important;
+        
+        font-size: 8px;
+        
+        font-weight:500;
+    }
+    #blogImg{
+        height: 70px;
+        
+    }
+    .blogImg2{
+        height: 150px;
+        margin-bottom: 10px;
+        margin-top: 7px;
+    }
+    #blg{
+        margin: 5px;
+        margin-left: 9px;
+        margin-right: 9px;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    #blg p{
+        text-align: left;
+        font-size: 7px;
+    
+    }
+    #blg h5{
+        font-size: 13px;
+        
+    }
+    #blg h6{
+        font-size: 10px;
+    }
+    #blg h4{
+        font-size: 14px;
+    }
+    #read{
+        font-size: 12px;
+    }
+}

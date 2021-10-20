@@ -1,0 +1,117 @@
+#lgin input{
+    display: block;
+    margin-top: 13px!important;
+    margin-bottom: 5px!important;
+    width: 90%;
+    height: 25px;
+    margin-left: 14px!important;
+    padding: 5px;
+    border-radius: 8px;
+    border: 0px;
+    background-color: rgb(227, 227, 253);
+}
+#sgnup input{
+    display: block;
+    margin-top: 13px!important;
+    margin-bottom: 5px!important;
+    width: 90%;
+    height: 25px;
+    margin-left: 14px!important;
+    padding: 5px;
+    border-radius: 8px;
+    border: 0px;
+    background-color: rgb(227, 227, 253);
+}
+#lgin{
+    margin-left: 320px!important;
+    margin-right: 320px!important;
+    background-color: whitesmoke;
+    margin:60px;
+    margin-bottom: 90px!important;
+    padding: 30px;
+}
+#lgin h4{
+    color: rgb(4, 4, 156);
+    padding-bottom: 20px;
+}
+#lgin p{
+    font-size: 10px;
+}
+#lgin a{
+    color: rgb(0, 87, 128)!important;
+    font-weight: bold;
+}
+#lgin ::placeholder{
+    font-size: 10px;
+}
+#lbtn{
+    border: 0px ;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: rgb(4, 4, 156);
+    font-size: 12px;
+    padding: 5px;
+    width: 80%;
+    color: whitesmoke;
+}
+#lbtn:hover{
+    background-color: rgb(0, 87, 128);
+}
+#sgnup{
+    margin-left: 300px!important;
+    margin-right: 300px!important;
+    background-color: whitesmoke;
+    margin:60px;
+    margin-bottom: 90px!important;
+    padding: 30px;
+}
+#sgnup h4{
+    color: rgb(0, 87, 128);
+    padding-bottom: 20px;
+}
+#sgnup p{
+    font-size: 10px;
+}
+#sgnup a{
+    color: rgb(4, 4, 156)!important;
+    font-weight: bold;
+}
+#sgnup ::placeholder{
+    font-size: 10px;
+}
+#sbtn{
+    border: 0px ;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 87, 128);
+    font-size: 12px;
+    padding: 5px;
+    width: 80%;
+    color: whitesmoke;
+}
+#sgnup:hover{
+    background-color: rgb(4, 4, 156);
+}
+.Lerror{
+    font-size: 8px!important;
+    color: red;
+    display: block;
+    text-align: left;
+    margin-left: 15px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    #lgin{
+        margin-left: 20px!important;
+        margin-right: 20px!important;
+        
+    }
+    #sgnup{
+        margin-left: 10px!important;
+        margin-right: 10px!important;
+    }
+    
+}

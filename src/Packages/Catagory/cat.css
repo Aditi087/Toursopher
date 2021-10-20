@@ -1,0 +1,62 @@
+#img2{
+    height: 200px!important;
+}
+#cat{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    position: relative;
+    animation: mymove2 1s;
+}
+@keyframes mymove2 {
+    from {bottom: 0px;}
+    to {bottom: 20px;}
+  
+}
+#cardC{
+    margin: 20px;
+    
+}
+#cardC a{
+    color: whitesmoke!important;
+}
+#catagory{
+    background-image: url(https://static-ssl.businessinsider.com/image/5c3e552710f0d00a9430668b-2400/baros%20maldives%204-4007.jp2);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#linkC:hover{
+    color: whitesmoke!important;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+    #cardC {
+      width: 75% !important;
+      display:block!important;
+      height: 220px;
+      margin-left: 40px;
+    }
+    #img2{
+        height: 140px!important;
+        
+        
+    }
+    #btnC{
+        height: 28px!important;
+        font-size: 10px!important;
+    }
+    #Ctitle{
+        font-size: 12px;
+        margin-top: 2px;
+    }
+    
+  }
+  #btnC{
+      
+      font-size: 12px;
+      height: 30px;
+
+  }
+  #btnC:hover{
+      background-color: green;
+  }
+  

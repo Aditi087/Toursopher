@@ -1,0 +1,52 @@
+#abt{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 18px;
+    background-color: whitesmoke;
+    
+}
+#abt h5{
+    color: black;
+    padding-top: 12px;
+    font-size: 16px;
+}
+#abt p{
+    font-size: 12px;
+    text-align: left;
+    padding-left: 7px;
+}
+#abt h4{
+    text-align: left;
+    color: rgb(172, 73, 73);
+    padding-bottom: 10px;
+}
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    #abt{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding: 10px;
+        
+        
+    }
+    #abt h5{
+        
+        padding-top: 7px;
+        font-size: 9px;
+    }
+    #abt p{
+        font-size: 5px;
+        text-align: left;
+        padding-left: 3px;
+    }
+    #abt h4{
+        padding-bottom: 6px;
+        font-size: 12px;
+    }
+    .abtLogo{
+        display:none;
+    }
+    
+}

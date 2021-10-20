@@ -1,0 +1,139 @@
+#cont{
+    background-image: url(https://i.pinimg.com/originals/44/f8/1e/44f81ed16fc9d16da50664d3a85eac25.jpg);
+    height: 300px;
+    margin: 5px;
+    background-size:cover;
+    border-radius: 2px;
+    padding: 40px;
+    
+}
+#cont1{
+    padding-top: 70px;
+    text-align: left;
+    color: white;
+}
+#cont2 input{
+    margin: 5px;
+    padding: 2px;
+    border-radius: 6px;
+    border-color: transparent;
+    height: 26px;
+}
+#cont2 input::placeholder{
+    font-size: 11px;
+}
+#cont2{
+    margin-top: 22px;
+}
+#cont2 span{
+    font-size: 8px!important;
+    color: red;
+    display: block;
+    text-align: left;
+    margin-left: 35px;
+}
+#contbtn{
+   font-size: 10px;
+   padding: 2px;
+   border-color: transparent;
+   border-radius: 10px;
+   background-color: rgb(156, 103, 4);
+   width: 65px;
+   color: whitesmoke;
+}
+#contbtn:hover{
+    background-color: rgb(1, 61, 38);
+    color: white;
+}
+#chbox{
+    font-size: 8px;
+    text-align: left;
+    display: flex;
+    padding: 7px;
+    padding-left: 30px;
+}
+#chbox a{
+    text-decoration: underline!important;
+    
+}
+#chbox input{
+    height: 8px;
+    border-radius: 2px!important;
+}
+#pol{
+    margin: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: left;
+}
+#pol h4{
+    text-align: center;
+    margin-bottom: 30px;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    #cont{
+       
+        height: 180px;
+        margin: 3px;
+        padding: 15px;
+        
+    }
+    #cont1{
+        padding-top: 40px;
+    }
+    #cont1 h4{
+        font-size: 11px;
+    }
+    #cont h5{
+        font-size: 9px;
+    }
+    #cont2 input{
+        margin: 1px;
+        height: 17px;
+        width:110%;
+    }
+    #cont2 input::placeholder{
+        font-size: 6px;
+        
+    }
+    #cont2{
+        margin-top: 7px;
+    }
+    #cont2 span{
+        font-size: 3px!important;
+        
+        margin-left: 2px!important;
+    }
+    #contbtn{
+       font-size: 7px;
+       padding: 2px;
+       
+       width: 45px;
+       
+    }
+    #chbox{
+        font-size: 5px;
+        padding-top: 4px;
+        padding-bottom: 0px!important;
+        padding-left: 3px;
+        width: 100px!important;
+    }
+    #chbox input{
+        height: 4px;
+        width: 4px;
+    }
+    #pol{
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 8px;
+        padding: 10px;
+    }
+    #pol h4{
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    
+}

@@ -1,0 +1,8 @@
+#iSpcl{
+    color: rgb(209, 9, 119);
+}
+@media (min-width: 320px) and (max-width: 480px) {
+#iSpcl{
+    font-size: 9px;
+}
+}

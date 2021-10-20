@@ -1,0 +1,176 @@
+#contUs{
+    
+    height:max-content;
+    
+    padding: 40px;
+    
+}
+#ContactUsBody{
+    background-image: url(https://networktocode.wpengine.com/wp-content/uploads/2019/12/about-us-title-03.jpg);
+    background-size: cover;
+}
+#contUs1{
+    padding-top: 20px;
+    
+    color: white;
+}
+
+#contUs2 input{
+    margin: 5px;
+    padding: 2px;
+    border-radius: 6px!important;
+    border-color: transparent;
+    height: 26px;
+    margin-bottom: 1px!important;
+    
+    display: block;
+    margin-left: 200px!important;
+}
+
+#contUs2 input::placeholder{
+    font-size: 11px;
+}
+#contUs3 textarea{
+    margin: 5px;
+    padding: 7px;
+    border-radius: 6px;
+    border-color: transparent;
+    margin-right: 210px;
+    height: 120px;
+   
+    
+}
+#contUs3 textarea::placeholder{
+    font-size: 11px;
+}
+.error{
+    font-size: 8px!important;
+    color: red;
+    display: block;
+    text-align: left;
+    margin-left: 202px;
+    margin-bottom: 2px;
+}
+#merror{
+    font-size: 8px!important;
+    color: red;
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+}
+#cherror{
+    font-size: 8px!important;
+    color: red;
+    display: block;
+    text-align: left;
+    margin-left: 0px;
+    margin-right: 4px;
+}
+#contUsbtn{
+   font-size: 10px;
+   padding: 2px;
+   border-color: transparent;
+   border-radius: 10px;
+   background-color: rgb(4, 37, 99);
+   width: 100px;
+   color: whitesmoke;
+   
+}
+#contUsbtn:hover{
+    background-color: rgb(117, 185, 216);
+    color: white;
+}
+#checkbox{
+    font-size: 8px;
+    text-align: center;
+    display: flex;
+    padding: 7px;
+    padding-left: 235px;
+    color: whitesmoke;
+}
+#checkbox a{
+    text-decoration: underline!important;
+    color: rgb(205, 255, 255)!important;
+    
+}
+#checkbox input{
+    height: 8px;
+    border-radius: 2px!important;
+    margin-right: 3px;
+}
+.info{
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+#cForm{
+    margin: 40px;
+}
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    #contUs{
+        padding: 20px;
+        
+    }
+    
+    #contUs2 input{
+    margin: 5px;
+    padding: 2px;
+    border-radius: 6px!important;
+    border-color: transparent;
+    height: 26px;
+    width: 130px;
+    display: block;
+    margin-left: 20px!important;
+        
+    }
+    #contUs2 input::placeholder{
+        font-size: 7px;
+    }
+    #contUs3 textarea{
+        margin: 5px;
+        padding: 7px;
+        margin-right: 0px;
+        height: 120px;
+        width: 98%;
+       
+        
+    }
+    #contUs3 textarea::placeholder{
+        font-size: 11px;
+    }
+    .error{
+        font-size: 6px!important;
+        color: red;
+        display: block;
+        text-align: left;
+        margin-left: 24px;
+    }
+    #contUsbtn{
+       font-size: 10px;
+       padding: 2px;
+       border-color: transparent;
+       border-radius: 10px;
+       background-color: rgb(4, 37, 99);
+       width: 100px;
+       color: whitesmoke;
+       
+    }
+    #checkbox{
+        font-size: 8px;
+        padding: 7px;
+        padding-left: 35px;
+        
+    }
+    
+    #cForm{
+        margin-top: 40px;
+        margin-bottom: 40px;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+
+    
+}
